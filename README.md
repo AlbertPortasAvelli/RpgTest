@@ -1,6 +1,6 @@
 # RPG Game Development Journey
 
-![Game Screenshot](![WolfIsWatching](https://github.com/AlbertPortasAvelli/RpgTest/blob/main/WolfIsWatchingScreenshot.png))
+![Game Screenshot](![WolfIsWatchingScreenshot.png](https://github.com/AlbertPortasAvelli/RpgTest/blob/main/WolfIsWatchingScreenshot.png))
 
 Welcome to my RPG game development journey! 🎮 In my quest to become a game developer, I'm crafting an exciting RPG adventure from scratch. Join me on this epic adventure as I share my progress, challenges, and triumphs in the world of game development.
 
