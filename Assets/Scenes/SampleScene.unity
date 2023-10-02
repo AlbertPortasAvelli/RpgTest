@@ -587,6 +587,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 314214571412496188, guid: c52f3bed1deb56141a0697e85ff67159, type: 3}
+      propertyPath: groundCheckDistance
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 314214571412496188, guid: c52f3bed1deb56141a0697e85ff67159, type: 3}
+      propertyPath: minAirTimeBeforeJumpDown
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1257263997350390950, guid: c52f3bed1deb56141a0697e85ff67159, type: 3}
       propertyPath: m_Name
       value: Player
