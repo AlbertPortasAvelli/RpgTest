@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e45bac3451d18e34d8c2312c0fd69a98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - interactionPanelPrefab: {fileID: 6557631144092932456, guid: aa0f68daef200ec42817ba15ab946e32, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
