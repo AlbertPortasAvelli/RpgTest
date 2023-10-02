@@ -46,7 +46,7 @@ In this game, you find yourself on a solitary village on an island, tasked with 
 
 By following this project, you'll get a glimpse into the world of game development and witness the evolution of an RPG game from its early stages to a fully-fledged adventure. Your support and feedback are invaluable as I embark on this quest to turn my passion for gaming into a career.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/albert-portas-avelli-16212b279) to stay updated with my game development journey and explore potential opportunities in the game development industry.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/albert-portas-avelli-16212b279/) to stay updated with my game development journey and explore potential opportunities in the game development industry.
 
 Join me on this adventure, and let's create something legendary together! 🌟
 
